@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The London damsels fate by unjust tyrany [sic]: or, The rash lover. Being a relation of a handsome maid that was lately through the tyranny of her parents, forced from her dearest, to one whom she hated, her love for sorrow dyes, she being distracted through grief and envy, first drinks poyson, and then stabs herself, and dyed in great desolation. Tune of Troy town,.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1696?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04148</idno>
+            <idno type="STC">Wing L2895</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[153]</idno>
+            <idno type="EEBO-CITATION">99887194</idno>
+            <idno type="PROQUEST">ocm99887194</idno>
+            <idno type="VID">181902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04148)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181902)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[153])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The London damsels fate by unjust tyrany [sic]: or, The rash lover. Being a relation of a handsome maid that was lately through the tyranny of her parents, forced from her dearest, to one whom she hated, her love for sorrow dyes, she being distracted through grief and envy, first drinks poyson, and then stabs herself, and dyed in great desolation. Tune of Troy town,.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P[hilip]. Brooksby at the Golden Ball in West smithfield.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1670-1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "All you that unto marriage tend ..."</note>
+                  <note>Date, place of publication and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Man-woman relationships --  Early works to 1800.</term>
+               <term>Suicide --  Early works to 1800.</term>
+               <term>Parent and child in literature --  Early works to 1800.</term>
+               <term>Ballads, English, --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181902:1"/>
+            <!-- PDF PAGE 12 -->
+            <head>The London Damſels fate by unjuſt Tyrany: Or, the Raſh Lover.</head>
+            <argument>
+               <p>Being a Relation of a handſome maid that was lately through the Tyranny of her Parents, forced from deareſt, to one whom ſhe hated, her Love for ſorrow dyes, ſhe being diſtracted through grief and envy, firſt drinks poyſon, and then ſtabs herſelf, and dyed in great Deſolation.</p>
+            </argument>
+            <opener>Tune of Troy Town,</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>ALl you that unto marriage tend,</l>
+               <l>and give your hearts unto the fate,</l>
+               <l>As maidens hearts that way do bend,</l>
+               <l>liſten to what I ſhall relate;</l>
+               <l>Where unjuſt choice through Tyrany,</l>
+               <l>did bring this maids to miſery.</l>
+            </lg>
+            <lg>
+               <l>She lov'd a youngman paſſing well,</l>
+               <l>whoſe youth and fortune did advance</l>
+               <l>Both <hi>Spain</hi> and <hi>Holland</hi> as men tell,</l>
+               <l>and eke the glorious Court of <hi>France;</hi>
+               </l>
+               <l>But as her Love ſhe oft applyed,</l>
+               <l>her Parents-croſsneſs ſtill deny'd.</l>
+            </lg>
+            <lg>
+               <l>Yet ſhe inſiſted in her Love,</l>
+               <l>and to her deareſt gave her Heart,</l>
+               <l>Proteſting ſtill that death ſhould prove</l>
+               <l>her mortal ſoul e'r ſhe would part:</l>
+               <l>Never did Turtles more inveſt</l>
+               <l>a conſtancy in each ones breaſt.</l>
+            </lg>
+            <lg>
+               <l>She often clasp't about his Neck</l>
+               <l>her Chriſtal Arms, as Lovers do,</l>
+               <l>But little thought thoſe ſigns a check</l>
+               <l>to bring her kindneſs unto woe:</l>
+               <l>Till peviſh Parents by their will</l>
+               <l>thoſe tender hopes of joy did kill.</l>
+            </lg>
+            <lg>
+               <l>Her Lover us'd to make great moan,</l>
+               <l>ſaying, if ſhe were ever fled,</l>
+               <l>His would then be left alone,</l>
+               <l>and in ſhort ſpace of time be dead:</l>
+               <l>That ſuch departing once away</l>
+               <l>would quickly bring his fatal day.</l>
+            </lg>
+            <lg>
+               <l>No ſooner had theſe Lovers gave</l>
+               <l>each others hands and hearts alſo,</l>
+               <l>But her croſs mother brings a ſlave,</l>
+               <l>whom ſhe would have her married to,</l>
+               <l>Croſſing her love to pleaſe her will,</l>
+               <l>becauſe ſhe would her mind fulfill.</l>
+            </lg>
+            <lg>
+               <l>Her Parents ſtill made no delay</l>
+               <l>to haſten her unto their choice,</l>
+               <l>But what ſhe proffer'd they cryed nay,</l>
+               <l>and made it go by th' major voice:</l>
+               <l>Forcing her to be made a wife</l>
+               <l>to whom ſhe ne'r lov'd in her life.</l>
+            </lg>
+            <lg>
+               <l>Alas ſhe cry'd her heart ſhe had given</l>
+               <l>unto her deareſt love and joy,</l>
+               <l>Wiſhing a thouſand times to Heaven</l>
+               <l>and Mother, that they'd not deſtroy</l>
+               <l>So dear a heart and force her mind</l>
+               <l>to whom ſhe ne'r could paſſion find.</l>
+            </lg>
+            <lg>
+               <l>Thoſe ſighs and tears could not prevaile</l>
+               <l>againſt her ſtubborn Parents heart,</l>
+               <l>The more ſhe beg'd the more they rail<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</l>
+               <l>ſaying, ſhe and her love muſt part,</l>
+               <l>And under duty fix her mind</l>
+               <l>unto the match they had deſign'd.</l>
+            </lg>
+            <lg>
+               <l>She now being baniſht from her Love,</l>
+               <l>and wedding day now drawing on,</l>
+               <l>She muſt be forc'd her will to move</l>
+               <l>on whom ſhe ne'r could look upon,</l>
+               <l>Abjuring oft his very ſight,</l>
+               <l>&amp; wiſh't Heaven would obſcure the light</l>
+            </lg>
+            <lg>
+               <l>For all theſe tears her friends increas'd</l>
+               <l>in Tyranny ſtill more and more,</l>
+               <l>So that the Parſon never ceas'd</l>
+               <l>till he had read the Wedlock o're.</l>
+               <l>Yet ſhe did ſpeechleſs ſtill remain,</l>
+               <l>whilſt tears &amp; ſighs dropt down amain</l>
+            </lg>
+            <lg>
+               <l>Then coming home with hand and Eyes</l>
+               <l>erected up to Heaven, ſhe prays,</l>
+               <l>(With Penetrable ſighs and cries)</l>
+               <l>ſome ſtander by to end her days?</l>
+               <l>Wiſhing to Heaven that it wou'd</l>
+               <l>let the Earth ſink whereon ſhe ſtood.</l>
+            </lg>
+            <lg>
+               <l>In the mean time her only dear</l>
+               <l>whoſe Parents Tyrany did part,</l>
+               <l>Theſe tydings which came to his ear,</l>
+               <l>within ſhort ſpace did break his heart:</l>
+               <l>Which then did ſo enrage her grief,</l>
+               <l>ſhe gave the world o're for relief.</l>
+            </lg>
+            <lg>
+               <l>Now therefore falling in a trance,</l>
+               <l>like one diſtracted or poſſeſt<g ref="char:punc">▪</g>
+               </l>
+               <l>Fancying the Furies turn<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d her dance,</l>
+               <l>her wandring mind could take no reſt:</l>
+               <l>Which then did ſo enrage her fate,</l>
+               <l>her friends then griev'd, but 'twas too late</l>
+            </lg>
+            <lg>
+               <l>Thus poor diſtracted woman ſhe</l>
+               <l>for ſome few dayes in torture groan,</l>
+               <l>Her thoughts increaſe her miſery,</l>
+               <l>and Parents then too late bemoan.</l>
+               <l>Then ſitting on her mournfull bed.</l>
+               <l>with poyſon in glaſs theſe words ſhe ſaid.</l>
+            </lg>
+            <lg>
+               <l>Love, though thou art gone I am thy wife.</l>
+               <l>and this ſame health I d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ink for thee,</l>
+               <l>Thou that art dearer then my life,</l>
+               <l>why ſhould we longer abſent be?</l>
+               <l>Come gentle glaſs one kiſs of thine</l>
+               <l>ſhall ſend me to my love divine.</l>
+            </lg>
+            <lg>
+               <l>Then lifting up her ſtedy hand</l>
+               <l>as if of her death were afraid,</l>
+               <l>From which with Dagger at command</l>
+               <l>with ſighs &amp; groans theſe words ſhe ſaid</l>
+               <l>Since unto him my heart I owe,</l>
+               <l>I'le pay my debts the world ſhall know</l>
+            </lg>
+            <lg>
+               <l>Thus in a trice her life was gone,</l>
+               <l>and blood which for her Love was fled,</l>
+               <l>Now Harents well might ſigh and groan</l>
+               <l>for now alas they found her dead,</l>
+               <l>They grieve and curſe their fatal breath,</l>
+               <l>as Acceſſaries of her death.</l>
+            </lg>
+            <lg>
+               <l>Lament and grieve they might in vain,</l>
+               <l>and to the ſtones declare their grief,</l>
+               <l>None ſought to remedy their pain,</l>
+               <l>nor to their ſorrows give relief:</l>
+               <l>That had thus through their Tyrany</l>
+               <l>brought their own Child to miſery.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for P. Brooksby at the Golden Ball in Weſt ſmithfield.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
